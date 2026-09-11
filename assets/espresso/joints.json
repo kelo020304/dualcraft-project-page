@@ -1,0 +1,62 @@
+[
+  {
+    "node": "part_001",
+    "label": "Tray slide",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.18
+  },
+  {
+    "node": "part_002",
+    "label": "Bayonet 0",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -0.785398,
+    "upper": 0.0
+  },
+  {
+    "node": "part_003",
+    "label": "Bayonet 1",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -0.785398,
+    "upper": 0.0
+  },
+  {
+    "node": "part_004",
+    "label": "Steam pivot 0",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.5
+  },
+  {
+    "node": "part_005",
+    "label": "Steam pivot 1",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.5,
+    "upper": 0.0
+  }
+]

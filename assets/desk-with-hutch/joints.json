@@ -1,0 +1,132 @@
+[
+  {
+    "node": "part_001",
+    "label": "Drawer slide 0",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.32,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Drawer slide 1",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.32,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Drawer slide 2",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.32,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Drawer slide 3",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.32,
+    "continuous": false
+  },
+  {
+    "node": "part_005",
+    "label": "Drawer slide 4",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.32,
+    "continuous": false
+  },
+  {
+    "node": "part_006",
+    "label": "Drawer slide 5",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.32,
+    "continuous": false
+  },
+  {
+    "node": "part_007",
+    "label": "Drawer slide 6",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.32,
+    "continuous": false
+  },
+  {
+    "node": "part_008",
+    "label": "Drawer slide 7",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.32,
+    "continuous": false
+  },
+  {
+    "node": "part_009",
+    "label": "Door hinge 0",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.74533,
+    "continuous": false
+  },
+  {
+    "node": "part_010",
+    "label": "Door hinge 1",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.74533,
+    "continuous": false
+  }
+]

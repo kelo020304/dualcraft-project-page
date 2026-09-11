@@ -1,0 +1,41 @@
+[
+  {
+    "node": "part_001",
+    "label": "Lid hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 1.91986,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Wheel axle 1",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  },
+  {
+    "node": "part_003",
+    "label": "Wheel axle 2",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  }
+]

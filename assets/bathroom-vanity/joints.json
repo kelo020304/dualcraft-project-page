@@ -1,0 +1,41 @@
+[
+  {
+    "node": "part_001",
+    "label": "Upper drawer slide",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.28,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Lower drawer slide",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.28,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Faucet lever hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.55,
+    "continuous": false
+  }
+]

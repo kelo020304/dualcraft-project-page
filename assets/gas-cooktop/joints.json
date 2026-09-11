@@ -1,0 +1,67 @@
+[
+  {
+    "node": "part_001",
+    "label": "Knob 0 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -2.35619,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Knob 1 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -2.35619,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Knob 2 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -2.35619,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Knob 3 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -2.35619,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_005",
+    "label": "Knob 4 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -2.35619,
+    "upper": 0.0,
+    "continuous": false
+  }
+]

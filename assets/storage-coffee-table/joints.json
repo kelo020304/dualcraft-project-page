@@ -1,0 +1,28 @@
+[
+  {
+    "node": "part_001",
+    "label": "Drawer slide",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.3,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Lid hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 1.35,
+    "continuous": false
+  }
+]

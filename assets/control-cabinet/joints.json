@@ -1,0 +1,184 @@
+[
+  {
+    "node": "part_001",
+    "label": "Door hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.55,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Latch turn",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -1.5708,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Flap hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 1.1,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Press 0 0",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_005",
+    "label": "Press 0 1",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_006",
+    "label": "Press 0 2",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_007",
+    "label": "Press 1 0",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_008",
+    "label": "Press 1 1",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_009",
+    "label": "Press 1 2",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_010",
+    "label": "Press 2 0",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_011",
+    "label": "Press 2 1",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_012",
+    "label": "Press 2 2",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_013",
+    "label": "Function press 0",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_014",
+    "label": "Function press 1",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  }
+]

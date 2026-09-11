@@ -1,0 +1,28 @@
+[
+  {
+    "node": "part_001",
+    "label": "Door 0 slide",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.6,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Door 1 slide",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.6,
+    "continuous": false
+  }
+]

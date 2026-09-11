@@ -1,0 +1,15 @@
+[
+  {
+    "node": "part_001",
+    "label": "Cap withdrawal",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.065,
+    "continuous": false
+  }
+]

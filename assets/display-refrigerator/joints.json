@@ -1,0 +1,67 @@
+[
+  {
+    "node": "part_001",
+    "label": "Door hinge 0",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.5708,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Door hinge 1",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.5708,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Door hinge 2",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.5708,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Button press 0",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0012,
+    "continuous": false
+  },
+  {
+    "node": "part_005",
+    "label": "Button press 1",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0012,
+    "continuous": false
+  }
+]

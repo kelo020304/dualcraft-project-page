@@ -1,0 +1,15 @@
+[
+  {
+    "node": "part_001",
+    "label": "Cabinet hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.74533,
+    "continuous": false
+  }
+]

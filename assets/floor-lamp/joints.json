@@ -1,0 +1,15 @@
+[
+  {
+    "node": "part_001",
+    "label": "Shade tilt",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -0.35,
+    "upper": 0.65,
+    "continuous": false
+  }
+]

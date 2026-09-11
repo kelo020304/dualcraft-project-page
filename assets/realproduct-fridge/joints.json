@@ -1,0 +1,62 @@
+[
+  {
+    "node": "part_001",
+    "label": "Door upper 1 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      2.78624238e-21,
+      1.0
+    ],
+    "lower": -1.57079633,
+    "upper": 0.0
+  },
+  {
+    "node": "part_002",
+    "label": "Door lower 1 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      2.78624238e-21,
+      1.0
+    ],
+    "lower": -1.57079633,
+    "upper": 0.0
+  },
+  {
+    "node": "part_005",
+    "label": "Drawer 2 joint",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.300000012
+  },
+  {
+    "node": "part_006",
+    "label": "Drawer 3 joint",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.300000012
+  },
+  {
+    "node": "part_007",
+    "label": "Drawer 1 joint",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.300000012
+  }
+]

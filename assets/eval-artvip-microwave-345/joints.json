@@ -1,0 +1,67 @@
+[
+  {
+    "node": "part_001",
+    "label": "Door hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.91986,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Button 1 press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.002,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Button 2 press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.002,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Timer rotation",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -4.71239,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_005",
+    "label": "Turntable rotation",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "node": "part_001",
+    "label": "Drawer lower slide",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.2,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Drawer upper slide",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.2,
+    "continuous": false
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "node": "part_001",
+    "label": "Power press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.005,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Single coffee press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.005,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Double coffee press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.005,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Steam press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.001,
+    "continuous": false
+  },
+  {
+    "node": "part_005",
+    "label": "Steam adjust",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -3.05433,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_006",
+    "label": "Portafilter twist",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.785398,
+    "continuous": false
+  },
+  {
+    "node": "part_007",
+    "label": "Wand swivel",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "lower": -1.5708,
+    "upper": 1.5708,
+    "continuous": false
+  }
+]

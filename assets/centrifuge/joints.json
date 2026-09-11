@@ -1,0 +1,93 @@
+[
+  {
+    "node": "part_001",
+    "label": "Lid hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 1.75,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Rotor spin",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  },
+  {
+    "node": "part_003",
+    "label": "Cover lift",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.006,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Door press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0012,
+    "continuous": false
+  },
+  {
+    "node": "part_005",
+    "label": "Run press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0012,
+    "continuous": false
+  },
+  {
+    "node": "part_006",
+    "label": "Speed press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0006,
+    "continuous": false
+  },
+  {
+    "node": "part_007",
+    "label": "Timer press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0006,
+    "continuous": false
+  }
+]

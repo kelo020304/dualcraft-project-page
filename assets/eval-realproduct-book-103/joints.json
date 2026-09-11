@@ -1,0 +1,15 @@
+[
+  {
+    "node": "part_001",
+    "label": "Spine hinge",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 3.14159,
+    "continuous": false
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "node": "part_001",
+    "label": "Backrest hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -1.0472,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Leg hinge 0",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.698132,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Leg hinge 1",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.698132,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Guard hinge 0",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 2.79253,
+    "continuous": false
+  },
+  {
+    "node": "part_005",
+    "label": "Guard hinge 1",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -2.79253,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_006",
+    "label": "Wheel axle 0",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  },
+  {
+    "node": "part_007",
+    "label": "Wheel axle 1",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  },
+  {
+    "node": "part_008",
+    "label": "Wheel axle 2",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  },
+  {
+    "node": "part_009",
+    "label": "Wheel axle 3",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  }
+]

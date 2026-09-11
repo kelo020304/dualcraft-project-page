@@ -1,0 +1,80 @@
+[
+  {
+    "node": "part_001",
+    "label": "Door hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -1.9,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Drum rotation",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  },
+  {
+    "node": "part_003",
+    "label": "Button 0 press",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.002,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Button 1 press",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.002,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_005",
+    "label": "Button 2 press",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.002,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_006",
+    "label": "Button 3 press",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.002,
+    "upper": 0.0,
+    "continuous": false
+  }
+]

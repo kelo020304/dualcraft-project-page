@@ -1,0 +1,28 @@
+[
+  {
+    "node": "part_001",
+    "label": "Carriage slide",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -0.075,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Browning rotation",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -4.18879,
+    "upper": 0.0,
+    "continuous": false
+  }
+]

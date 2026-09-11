@@ -1,0 +1,28 @@
+[
+  {
+    "node": "part_001",
+    "label": "Start press",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0015,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Memory press",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0015,
+    "continuous": false
+  }
+]

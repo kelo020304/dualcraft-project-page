@@ -1,0 +1,54 @@
+[
+  {
+    "node": "part_001",
+    "label": "Seat hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 1.48,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Lid hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 1.57,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Flush press 0",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.003,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Flush press 1",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.003,
+    "continuous": false
+  }
+]

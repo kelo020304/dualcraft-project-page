@@ -1,0 +1,210 @@
+[
+  {
+    "node": "part_001",
+    "label": "Press key 0 0",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0015,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Press key 0 1",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0015,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Press key 0 2",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0015,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Press key 1 0",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0015,
+    "continuous": false
+  },
+  {
+    "node": "part_005",
+    "label": "Press key 1 1",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0015,
+    "continuous": false
+  },
+  {
+    "node": "part_006",
+    "label": "Press key 1 2",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0015,
+    "continuous": false
+  },
+  {
+    "node": "part_007",
+    "label": "Press span key 0",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0015,
+    "continuous": false
+  },
+  {
+    "node": "part_008",
+    "label": "Press span key 1",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0015,
+    "continuous": false
+  },
+  {
+    "node": "part_009",
+    "label": "Press function key 0",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0015,
+    "continuous": false
+  },
+  {
+    "node": "part_010",
+    "label": "Press function key 1",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0015,
+    "continuous": false
+  },
+  {
+    "node": "part_011",
+    "label": "Press function key 2",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0015,
+    "continuous": false
+  },
+  {
+    "node": "part_012",
+    "label": "Press function key 3",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0015,
+    "continuous": false
+  },
+  {
+    "node": "part_013",
+    "label": "Press function key 4",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0015,
+    "continuous": false
+  },
+  {
+    "node": "part_014",
+    "label": "Press function key 5",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0015,
+    "continuous": false
+  },
+  {
+    "node": "part_015",
+    "label": "Adjust",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -4.71239,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_016",
+    "label": "Power",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -0.244346,
+    "upper": 0.244346,
+    "continuous": false
+  }
+]

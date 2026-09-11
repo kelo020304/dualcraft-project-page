@@ -1,0 +1,106 @@
+[
+  {
+    "node": "part_001",
+    "label": "Lid hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 1.75,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Handle pivot",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 1.65,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Dispense press",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0014,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Unlock press",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0014,
+    "continuous": false
+  },
+  {
+    "node": "part_005",
+    "label": "Reboil press",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0014,
+    "continuous": false
+  },
+  {
+    "node": "part_006",
+    "label": "Timer press",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0014,
+    "continuous": false
+  },
+  {
+    "node": "part_007",
+    "label": "Temperature press",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0014,
+    "continuous": false
+  },
+  {
+    "node": "part_008",
+    "label": "Mode press",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0014,
+    "continuous": false
+  }
+]

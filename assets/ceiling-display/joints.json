@@ -1,0 +1,15 @@
+[
+  {
+    "node": "part_001",
+    "label": "Display tilt",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -0.226893,
+    "upper": 0.383972,
+    "continuous": false
+  }
+]

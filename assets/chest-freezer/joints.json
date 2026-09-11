@@ -1,0 +1,93 @@
+[
+  {
+    "node": "part_001",
+    "label": "Lid slide 0",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.61,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Lid slide 1",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.61,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Wheel axle 0",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  },
+  {
+    "node": "part_004",
+    "label": "Wheel axle 1",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  },
+  {
+    "node": "part_005",
+    "label": "Wheel axle 2",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  },
+  {
+    "node": "part_006",
+    "label": "Wheel axle 3",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  },
+  {
+    "node": "part_007",
+    "label": "Temperature setting",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -4.2,
+    "upper": 0.0,
+    "continuous": false
+  }
+]

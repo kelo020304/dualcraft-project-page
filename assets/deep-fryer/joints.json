@@ -1,0 +1,67 @@
+[
+  {
+    "node": "part_001",
+    "label": "Lid lift",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.3,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Basket 0 lift",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.18,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Basket 1 lift",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.18,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Temperature adjust",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -2.8,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_005",
+    "label": "Timer adjust",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -2.8,
+    "upper": 0.0,
+    "continuous": false
+  }
+]

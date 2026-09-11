@@ -1,0 +1,93 @@
+[
+  {
+    "node": "part_001",
+    "label": "Selector turn",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -4.71,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Button 0 press",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Button 1 press",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Button 2 press",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_005",
+    "label": "Button 3 press",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_007",
+    "label": "Pedal 0 press",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.07,
+    "continuous": false
+  },
+  {
+    "node": "part_009",
+    "label": "Pedal 1 press",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.07,
+    "continuous": false
+  }
+]

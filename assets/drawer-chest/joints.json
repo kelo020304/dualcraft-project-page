@@ -1,0 +1,67 @@
+[
+  {
+    "node": "part_001",
+    "label": "Drawer 0 slide",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.27,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Drawer 1 slide",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.27,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Drawer 2 slide",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.27,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Drawer 3 slide",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.27,
+    "continuous": false
+  },
+  {
+    "node": "part_005",
+    "label": "Drawer 4 slide",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.27,
+    "continuous": false
+  }
+]

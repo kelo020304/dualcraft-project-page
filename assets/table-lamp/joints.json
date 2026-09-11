@@ -1,0 +1,15 @@
+[
+  {
+    "node": "part_001",
+    "label": "Shade slide",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -0.1,
+    "upper": 0.035,
+    "continuous": false
+  }
+]

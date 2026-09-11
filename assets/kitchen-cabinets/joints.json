@@ -1,0 +1,288 @@
+[
+  {
+    "node": "part_001",
+    "label": "Faucet lever joint",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.6,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Upper door 0 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -1.45,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Upper door 1 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.45,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Upper door 2 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -1.45,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_005",
+    "label": "Upper door 3 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.45,
+    "continuous": false
+  },
+  {
+    "node": "part_006",
+    "label": "Upper door 4 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -1.45,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_007",
+    "label": "Upper door 5 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.45,
+    "continuous": false
+  },
+  {
+    "node": "part_008",
+    "label": "Upper door 6 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -1.45,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_009",
+    "label": "Base door 0 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -1.6,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_010",
+    "label": "Base door 1 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -1.6,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_011",
+    "label": "Base door 2 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -1.6,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_012",
+    "label": "Return door joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -1.6,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_013",
+    "label": "Drawer 0 joint",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.43,
+    "continuous": false
+  },
+  {
+    "node": "part_014",
+    "label": "Drawer 1 joint",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.43,
+    "continuous": false
+  },
+  {
+    "node": "part_015",
+    "label": "Oven door joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 1.48,
+    "continuous": false
+  },
+  {
+    "node": "part_016",
+    "label": "Stove knob 0 joint",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -2.5,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_017",
+    "label": "Stove knob 1 joint",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -2.5,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_018",
+    "label": "Hood button 0 joint",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.003,
+    "continuous": false
+  },
+  {
+    "node": "part_019",
+    "label": "Hood button 1 joint",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.003,
+    "continuous": false
+  },
+  {
+    "node": "part_020",
+    "label": "Hood button 2 joint",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.003,
+    "continuous": false
+  },
+  {
+    "node": "part_021",
+    "label": "Hood button 3 joint",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.003,
+    "continuous": false
+  },
+  {
+    "node": "part_022",
+    "label": "Hood button 4 joint",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.003,
+    "continuous": false
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "node": "part_001",
+    "label": "Door hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 1.5708,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Knob 0 turn",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -4.71239,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Knob 1 turn",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -4.71239,
+    "upper": 0.0,
+    "continuous": false
+  }
+]

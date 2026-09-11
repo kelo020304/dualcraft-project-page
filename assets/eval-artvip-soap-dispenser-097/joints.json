@@ -1,0 +1,15 @@
+[
+  {
+    "node": "part_001",
+    "label": "Pump press",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.01,
+    "continuous": false
+  }
+]

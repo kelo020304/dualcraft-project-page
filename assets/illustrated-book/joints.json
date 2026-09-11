@@ -1,0 +1,28 @@
+[
+  {
+    "node": "part_001",
+    "label": "Leaf hinge",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 2.96706,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Cover hinge",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 3.05433,
+    "continuous": false
+  }
+]

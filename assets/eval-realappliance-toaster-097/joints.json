@@ -1,0 +1,54 @@
+[
+  {
+    "node": "part_001",
+    "label": "Pop button press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.001,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Frost button press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.01,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Browning adjustment",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -3.735,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Lever slide",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.1,
+    "continuous": false
+  }
+]

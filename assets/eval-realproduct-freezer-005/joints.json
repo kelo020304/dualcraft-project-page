@@ -1,0 +1,54 @@
+[
+  {
+    "node": "part_001",
+    "label": "Door 1 hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.5708,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Door 2 hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.5708,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Tray 1 slide",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.2,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Tray 2 slide",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.2,
+    "continuous": false
+  }
+]

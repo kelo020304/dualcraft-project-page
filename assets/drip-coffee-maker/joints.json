@@ -1,0 +1,106 @@
+[
+  {
+    "node": "part_001",
+    "label": "Lid hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -1.48,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Carafe slide",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.18,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Carafe lid hinge",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 1.25,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Hour button press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.002,
+    "continuous": false
+  },
+  {
+    "node": "part_005",
+    "label": "Minute button press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.002,
+    "continuous": false
+  },
+  {
+    "node": "part_006",
+    "label": "Program button press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.002,
+    "continuous": false
+  },
+  {
+    "node": "part_007",
+    "label": "Strength button press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.002,
+    "continuous": false
+  },
+  {
+    "node": "part_008",
+    "label": "Power button press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.002,
+    "continuous": false
+  }
+]

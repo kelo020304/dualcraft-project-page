@@ -1,0 +1,28 @@
+[
+  {
+    "node": "part_001",
+    "label": "Blade spin",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  },
+  {
+    "node": "part_002",
+    "label": "Power slide",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.014,
+    "continuous": false
+  }
+]

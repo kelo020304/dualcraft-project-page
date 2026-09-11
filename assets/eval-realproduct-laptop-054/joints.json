@@ -1,0 +1,15 @@
+[
+  {
+    "node": "part_001",
+    "label": "Display hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 2.0944,
+    "continuous": false
+  }
+]

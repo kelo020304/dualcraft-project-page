@@ -1,0 +1,158 @@
+[
+  {
+    "node": "part_001",
+    "label": "Pitcher lift",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.08,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Blade spin",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  },
+  {
+    "node": "part_003",
+    "label": "Lid lift",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.07,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Cap lift",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.035,
+    "continuous": false
+  },
+  {
+    "node": "part_005",
+    "label": "Button 0 press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0025,
+    "continuous": false
+  },
+  {
+    "node": "part_006",
+    "label": "Button 1 press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0025,
+    "continuous": false
+  },
+  {
+    "node": "part_007",
+    "label": "Button 2 press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0025,
+    "continuous": false
+  },
+  {
+    "node": "part_008",
+    "label": "Button 3 press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0025,
+    "continuous": false
+  },
+  {
+    "node": "part_009",
+    "label": "Button 4 press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0025,
+    "continuous": false
+  },
+  {
+    "node": "part_010",
+    "label": "Button 5 press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0025,
+    "continuous": false
+  },
+  {
+    "node": "part_011",
+    "label": "Button 6 press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0025,
+    "continuous": false
+  },
+  {
+    "node": "part_012",
+    "label": "Button 7 press",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.0025,
+    "continuous": false
+  }
+]

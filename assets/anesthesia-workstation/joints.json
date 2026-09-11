@@ -1,0 +1,340 @@
+[
+  {
+    "node": "part_001",
+    "label": "Wheel axle 0",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  },
+  {
+    "node": "part_002",
+    "label": "Wheel axle 1",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  },
+  {
+    "node": "part_003",
+    "label": "Wheel axle 2",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  },
+  {
+    "node": "part_004",
+    "label": "Wheel axle 3",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  },
+  {
+    "node": "part_005",
+    "label": "Drawer slide 0",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.3,
+    "continuous": false
+  },
+  {
+    "node": "part_006",
+    "label": "Drawer slide 1",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.3,
+    "continuous": false
+  },
+  {
+    "node": "part_007",
+    "label": "Drawer slide 2",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.3,
+    "continuous": false
+  },
+  {
+    "node": "part_008",
+    "label": "Drawer slide 3",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.3,
+    "continuous": false
+  },
+  {
+    "node": "part_009",
+    "label": "Flow adjust 0",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -2.63894,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_010",
+    "label": "Flow adjust 1",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -2.63894,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_011",
+    "label": "Flow adjust 2",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -2.63894,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_012",
+    "label": "Vaporizer adjust 0",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -2.63894,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_013",
+    "label": "Vaporizer adjust 1",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -2.63894,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_014",
+    "label": "Monitor press 0",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_015",
+    "label": "Monitor press 1",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_016",
+    "label": "Monitor press 2",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_017",
+    "label": "Monitor press 3",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_018",
+    "label": "Monitor press 4",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_019",
+    "label": "Monitor encoder",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  },
+  {
+    "node": "part_020",
+    "label": "Screen press 0",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_021",
+    "label": "Screen press 1",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_022",
+    "label": "Screen press 2",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_023",
+    "label": "Screen press 3",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_024",
+    "label": "Screen press 4",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.0015,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_025",
+    "label": "Breathing adjust 0",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -2.63894,
+    "upper": 0.0,
+    "continuous": false
+  },
+  {
+    "node": "part_026",
+    "label": "Breathing adjust 1",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -2.63894,
+    "upper": 0.0,
+    "continuous": false
+  }
+]

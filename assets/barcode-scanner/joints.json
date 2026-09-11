@@ -1,0 +1,15 @@
+[
+  {
+    "node": "part_001",
+    "label": "Trigger pivot",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.18,
+    "continuous": false
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "node": "part_001",
+    "label": "Lid removal",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.12
+  },
+  {
+    "node": "part_002",
+    "label": "Grind adjustment",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -0.6,
+    "upper": 0.0
+  },
+  {
+    "node": "part_003",
+    "label": "Tray removal",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.12
+  }
+]

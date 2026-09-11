@@ -1,0 +1,106 @@
+[
+  {
+    "node": "part_001",
+    "label": "Middle hinge 0",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.5708,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Middle hinge 1",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.5708,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Base hinge 0",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.5708,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Base hinge 1",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.5708,
+    "continuous": false
+  },
+  {
+    "node": "part_005",
+    "label": "Drawer slide 0 0",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.22,
+    "continuous": false
+  },
+  {
+    "node": "part_006",
+    "label": "Drawer slide 0 1",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.22,
+    "continuous": false
+  },
+  {
+    "node": "part_007",
+    "label": "Drawer slide 1 0",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.22,
+    "continuous": false
+  },
+  {
+    "node": "part_008",
+    "label": "Drawer slide 1 1",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.22,
+    "continuous": false
+  }
+]

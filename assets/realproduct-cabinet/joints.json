@@ -1,0 +1,398 @@
+[
+  {
+    "node": "part_000",
+    "label": "Door 6 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.34205104e-07,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.57079633
+  },
+  {
+    "node": "part_001",
+    "label": "Door 15 joint",
+    "type": "revolute",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -1.57079633,
+    "upper": 0.0
+  },
+  {
+    "node": "part_002",
+    "label": "Drawer 7 joint",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      -1.0,
+      2.22044605e-16
+    ],
+    "lower": -0.400000006,
+    "upper": 0.0
+  },
+  {
+    "node": "part_003",
+    "label": "Drawer 8 joint",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      -1.0,
+      2.22044605e-16
+    ],
+    "lower": -0.400000006,
+    "upper": 0.0
+  },
+  {
+    "node": "part_004",
+    "label": "Door 10 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.34205104e-07,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.57079633
+  },
+  {
+    "node": "part_005",
+    "label": "Door 16 joint",
+    "type": "revolute",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -1.57079633,
+    "upper": 0.0
+  },
+  {
+    "node": "part_006",
+    "label": "Door 5 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.34205104e-07,
+      1.0
+    ],
+    "lower": -1.57079633,
+    "upper": 0.0
+  },
+  {
+    "node": "part_007",
+    "label": "Door 7 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.34205104e-07,
+      1.0
+    ],
+    "lower": -1.57079633,
+    "upper": 0.0
+  },
+  {
+    "node": "part_009",
+    "label": "Knob 5 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      -1.34205104e-07
+    ],
+    "lower": 0.0,
+    "upper": 6.28318531
+  },
+  {
+    "node": "part_010",
+    "label": "Door 9 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.34205104e-07,
+      1.0
+    ],
+    "lower": -1.57079633,
+    "upper": 0.0
+  },
+  {
+    "node": "part_011",
+    "label": "Door 11 joint",
+    "type": "revolute",
+    "axis": [
+      -5.54901175e-17,
+      2.10337363e-20,
+      1.0
+    ],
+    "lower": -1.57079633,
+    "upper": 0.0
+  },
+  {
+    "node": "part_012",
+    "label": "Draining rack 1 joint",
+    "type": "prismatic",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.35,
+    "upper": 0.0
+  },
+  {
+    "node": "part_013",
+    "label": "Knob 1 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      -1.0,
+      2.22044605e-16
+    ],
+    "lower": -1.57079633,
+    "upper": 0.0
+  },
+  {
+    "node": "part_014",
+    "label": "Knob 2 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      2.22044605e-16,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 6.28318531
+  },
+  {
+    "node": "part_015",
+    "label": "Door 12 joint",
+    "type": "revolute",
+    "axis": [
+      -5.54901175e-17,
+      2.10337363e-20,
+      1.0
+    ],
+    "lower": -1.57079633,
+    "upper": 0.0
+  },
+  {
+    "node": "part_016",
+    "label": "Knob 3 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      2.22044605e-16,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 6.28318531
+  },
+  {
+    "node": "part_017",
+    "label": "Knob 4 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      -1.34205104e-07
+    ],
+    "lower": 0.0,
+    "upper": 6.28318531
+  },
+  {
+    "node": "part_018",
+    "label": "Door 13 joint",
+    "type": "revolute",
+    "axis": [
+      -1.18794897e-07,
+      -6.83332716e-15,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.57079633
+  },
+  {
+    "node": "part_019",
+    "label": "Drawer 5 joint",
+    "type": "prismatic",
+    "axis": [
+      -3.37948968e-08,
+      1.0,
+      -2.22044605e-16
+    ],
+    "lower": -0.400000006,
+    "upper": 0.0
+  },
+  {
+    "node": "part_020",
+    "label": "Drawer 4 joint",
+    "type": "prismatic",
+    "axis": [
+      -3.37948968e-08,
+      1.0,
+      -2.22044605e-16
+    ],
+    "lower": -0.400000006,
+    "upper": 0.0
+  },
+  {
+    "node": "part_021",
+    "label": "Drawer 3 joint",
+    "type": "prismatic",
+    "axis": [
+      -3.37948968e-08,
+      1.0,
+      -2.22044605e-16
+    ],
+    "lower": -0.400000006,
+    "upper": 0.0
+  },
+  {
+    "node": "part_022",
+    "label": "Drawer 6 joint",
+    "type": "prismatic",
+    "axis": [
+      -3.37948968e-08,
+      1.0,
+      -2.22044605e-16
+    ],
+    "lower": -0.400000006,
+    "upper": 0.0
+  },
+  {
+    "node": "part_023",
+    "label": "Rack 1 joint",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      -1.0,
+      -6.19999998e-08
+    ],
+    "lower": -0.300000012,
+    "upper": 0.0
+  },
+  {
+    "node": "part_024",
+    "label": "Door 1 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      -2.77555756e-17,
+      1.0
+    ],
+    "lower": -1.57079633,
+    "upper": 0.0
+  },
+  {
+    "node": "part_025",
+    "label": "Door 2 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      -2.77555756e-17,
+      1.0
+    ],
+    "lower": -1.57079633,
+    "upper": 0.0
+  },
+  {
+    "node": "part_026",
+    "label": "Rack 2 joint",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      -1.0,
+      -6.09999998e-08
+    ],
+    "lower": 0.0,
+    "upper": 0.400000006
+  },
+  {
+    "node": "part_027",
+    "label": "Door 3 joint",
+    "type": "revolute",
+    "axis": [
+      -1.45477686e-25,
+      1.94289029e-16,
+      -1.0
+    ],
+    "lower": -1.57079633,
+    "upper": 0.0
+  },
+  {
+    "node": "part_028",
+    "label": "Rack 3 joint",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      -1.0,
+      -6.09999998e-08
+    ],
+    "lower": 0.0,
+    "upper": 0.400000006
+  },
+  {
+    "node": "part_029",
+    "label": "Door 4 joint",
+    "type": "revolute",
+    "axis": [
+      -1.45477686e-25,
+      1.94289029e-16,
+      -1.0
+    ],
+    "lower": -1.57079633,
+    "upper": 0.0
+  },
+  {
+    "node": "part_030",
+    "label": "Drawer 1 joint",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      4.10206857e-10,
+      -3e-07
+    ],
+    "lower": 0.0,
+    "upper": 0.400000006
+  },
+  {
+    "node": "part_031",
+    "label": "Drawer 2 joint",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      4.10206857e-10,
+      -3e-07
+    ],
+    "lower": 0.0,
+    "upper": 0.400000006
+  },
+  {
+    "node": "part_032",
+    "label": "Door 14 joint",
+    "type": "revolute",
+    "axis": [
+      -1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 1.04719755
+  },
+  {
+    "node": "part_033",
+    "label": "Door 8 joint",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      -2.02794896e-07,
+      1.0
+    ],
+    "lower": -1.57079633,
+    "upper": 0.0
+  }
+]

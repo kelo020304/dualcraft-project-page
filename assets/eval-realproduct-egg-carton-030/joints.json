@@ -1,0 +1,28 @@
+[
+  {
+    "node": "part_001",
+    "label": "Lid hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 3.14159,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Flap hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 3.14159,
+    "continuous": false
+  }
+]

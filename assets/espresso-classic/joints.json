@@ -1,0 +1,54 @@
+[
+  {
+    "node": "part_001",
+    "label": "Hopper lid lift",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.12,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Drip tray slide",
+    "type": "prismatic",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 0.21,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Portafilter lock",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 0.85,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Steam wand pivot",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -0.6,
+    "upper": 0.0,
+    "continuous": false
+  }
+]

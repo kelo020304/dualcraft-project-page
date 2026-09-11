@@ -1,0 +1,80 @@
+[
+  {
+    "node": "part_001",
+    "label": "Beam pivot",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.06,
+    "upper": 0.06,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Pan pivot 0",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.06,
+    "upper": 0.06,
+    "continuous": false
+  },
+  {
+    "node": "part_003",
+    "label": "Pan pivot 1",
+    "type": "revolute",
+    "axis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "lower": -0.06,
+    "upper": 0.06,
+    "continuous": false
+  },
+  {
+    "node": "part_004",
+    "label": "Poise slide",
+    "type": "prismatic",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -0.105,
+    "upper": 0.105,
+    "continuous": false
+  },
+  {
+    "node": "part_005",
+    "label": "Adjuster rotation 0",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  },
+  {
+    "node": "part_006",
+    "label": "Adjuster rotation 1",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": -3.141592653589793,
+    "upper": 3.141592653589793,
+    "continuous": true
+  }
+]

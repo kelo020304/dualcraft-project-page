@@ -1,0 +1,28 @@
+[
+  {
+    "node": "part_001",
+    "label": "Seat hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      -1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 1.5708,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Leg hinge",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "lower": 0.0,
+    "upper": 1.106539,
+    "continuous": false
+  }
+]

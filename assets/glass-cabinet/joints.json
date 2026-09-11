@@ -1,0 +1,28 @@
+[
+  {
+    "node": "part_001",
+    "label": "Door hinge 0",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": 0.0,
+    "upper": 1.91986,
+    "continuous": false
+  },
+  {
+    "node": "part_002",
+    "label": "Door hinge 1",
+    "type": "revolute",
+    "axis": [
+      0.0,
+      0.0,
+      1.0
+    ],
+    "lower": -1.91986,
+    "upper": 0.0,
+    "continuous": false
+  }
+]
