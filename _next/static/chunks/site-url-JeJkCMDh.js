@@ -1,0 +1,1 @@
+function e(e,t=`/dualcraft-project-page`){let n=t.replace(/\/$/,``);return!n||!e.startsWith(`/`)||e.startsWith(`//`)||e===n||e.startsWith(`${n}/`)?e:`${n}${e}`}export{e as t};
