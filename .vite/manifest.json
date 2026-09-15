@@ -31,7 +31,7 @@
     "name": "site-url"
   },
   "app/page.tsx": {
-    "file": "dualcraft-project-page/_next/static/chunks/page-CKgJ-FmH.js",
+    "file": "dualcraft-project-page/_next/static/chunks/page-B9hl6bWD.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
@@ -86,7 +86,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "dualcraft-project-page/_next/static/chunks/app-route-prefetch-policy-CmA_EMGw.js",
+    "file": "dualcraft-project-page/_next/static/chunks/app-route-prefetch-policy-Bv7GCtVD.js",
     "name": "app-route-prefetch-policy",
     "src": "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
     "isDynamicEntry": true,
@@ -95,7 +95,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "dualcraft-project-page/_next/static/chunks/layout-segment-context-Bi2_aZy4.js",
+    "file": "dualcraft-project-page/_next/static/chunks/layout-segment-context-_6khJfUf.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -116,7 +116,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "dualcraft-project-page/_next/static/chunks/index-CSy2kej6.js",
+    "file": "dualcraft-project-page/_next/static/chunks/index-6fMeaUAA.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
