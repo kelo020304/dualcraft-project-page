@@ -1,6 +1,6 @@
 # DualCraft
 
-Anonymous supplementary website for an ICRA 2027 submission.
+Anonymous supplementary website for an ICLR 2027 submission.
 
 This repository contains the static project page, scene videos and interactive
 articulated assets. No build step or server is required.
