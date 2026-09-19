@@ -22,8 +22,8 @@
     "file": "dualcraft-project-page/_next/static/chunks/framing-jMMZ4ibm.js",
     "name": "framing"
   },
-  "_play-a8ddNBOy.js": {
-    "file": "dualcraft-project-page/_next/static/chunks/play-a8ddNBOy.js",
+  "_play-B8GDdVxM.js": {
+    "file": "dualcraft-project-page/_next/static/chunks/play-B8GDdVxM.js",
     "name": "play",
     "imports": [
       "components/GenerationWorkspace.tsx"
@@ -38,7 +38,7 @@
     "name": "site-url"
   },
   "app/page.tsx": {
-    "file": "dualcraft-project-page/_next/static/chunks/page-Bc8AIuY8.js",
+    "file": "dualcraft-project-page/_next/static/chunks/page-BzHbS6gV.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
@@ -47,7 +47,7 @@
       "virtual:vinext-app-browser-entry",
       "components/GenerationWorkspace.tsx",
       "_site-url-C5Z_wBth.js",
-      "_play-a8ddNBOy.js",
+      "_play-B8GDdVxM.js",
       "_framework-BYW-Yh_1.js"
     ],
     "dynamicImports": [
@@ -80,7 +80,7 @@
     ]
   },
   "components/GenerationWorkspace.tsx": {
-    "file": "dualcraft-project-page/_next/static/chunks/GenerationWorkspace-EeN40CJP.js",
+    "file": "dualcraft-project-page/_next/static/chunks/GenerationWorkspace-DGI899T5.js",
     "name": "GenerationWorkspace",
     "src": "components/GenerationWorkspace.tsx",
     "isDynamicEntry": true,
@@ -95,20 +95,20 @@
     ]
   },
   "components/JointViewer.tsx": {
-    "file": "dualcraft-project-page/_next/static/chunks/JointViewer-D9VJTIkf.js",
+    "file": "dualcraft-project-page/_next/static/chunks/JointViewer-BiuuEyX3.js",
     "name": "JointViewer",
     "src": "components/JointViewer.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-D5UHS3CN.js",
       "_framing-jMMZ4ibm.js",
-      "_play-a8ddNBOy.js",
+      "_play-B8GDdVxM.js",
       "_framework-BYW-Yh_1.js",
       "_OrbitControls-Ys86z3NM.js"
     ]
   },
   "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "dualcraft-project-page/_next/static/chunks/app-route-prefetch-policy-BIoUwb8S.js",
+    "file": "dualcraft-project-page/_next/static/chunks/app-route-prefetch-policy-CeWqREZm.js",
     "name": "app-route-prefetch-policy",
     "src": "node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
     "isDynamicEntry": true,
@@ -117,7 +117,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "dualcraft-project-page/_next/static/chunks/layout-segment-context-71z1DWWm.js",
+    "file": "dualcraft-project-page/_next/static/chunks/layout-segment-context-B89yuRfh.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -138,7 +138,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "dualcraft-project-page/_next/static/chunks/index-B-AYlbvl.js",
+    "file": "dualcraft-project-page/_next/static/chunks/index-DcegC8-J.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
