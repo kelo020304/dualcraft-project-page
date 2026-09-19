@@ -1,1 +1,0 @@
-function e(e,t,n){let r=t*Math.PI/360,i=Math.atan(Math.tan(r)*Math.max(n,.01));return e/Math.sin(Math.min(r,i))*1.08}export{e as t};
